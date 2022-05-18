@@ -25,3 +25,5 @@ def developer2method():
     
 
     grades = [67, 100, 87, 56]
+
+    color = "Blue"
