@@ -7,5 +7,5 @@ def developer3method():
     print("cohort: {}\n ".format("CS freshman"))
     print("age: {}\n ".format("20"))
     print("gender: {}\n ".format("female"))
-
+    print("birthdate: {}\n ".format("2nd jan"))
 
