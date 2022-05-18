@@ -5,6 +5,6 @@ def developer3method():
     print("surname: {}\n ".format("Toichieva"))
     print("email: {}\n ".format("aishatoichieva@mail.ru"))
     print("cohort: {}\n ".format("CS freshman"))
-
+    print("age: {}\n ".format("20"))
 
 
