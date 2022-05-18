@@ -36,3 +36,5 @@ def developer2method():
 
 
 print("Hello, World!")
+
+age = 56
