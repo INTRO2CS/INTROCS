@@ -28,4 +28,6 @@ def developer2method():
 
     color = "Blue"
 
-    grades = [67, 100, 87, 56]
+    grades = [67, 100, 87, 
+    
+    my_list = [1, 2, 3, 4, 5]
