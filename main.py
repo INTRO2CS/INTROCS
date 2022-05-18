@@ -40,3 +40,4 @@ print("Hello, World!")
 age = 56
 
 name = "Nora"
+color = "Blue"
