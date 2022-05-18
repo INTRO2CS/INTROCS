@@ -18,5 +18,6 @@ def developer2method():
     print("email: {}\n ".format("imasuleymanov@gmail.com"))
     print("cohort: {}\n ".format("CS freshman"))
     print("age: {}\n ".format("20"))
+    print("gender: {}\n ".format("Male"))
 
 
