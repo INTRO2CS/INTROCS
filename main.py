@@ -21,5 +21,6 @@ def developer2method():
     print("gender: {}\n ".format("Male"))
     print("birthdate: {}\n ".format("31.05.2001"))
     print("speciality: {}\n ".format("Backend"))
+    print("country: {}\n ".format("Tajikistan"))
 
 
