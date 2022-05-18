@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 """Python code goes here"""
-
-"""Python code goes here"""
-=======
 
 """Python code goes here"""
 def developer1method():
@@ -39,8 +35,3 @@ def developer2method():
     print("birthdate: {}\n ".format("02.01.2002"))
     print("speciality: {}\n ".format("Frontend"))
     print("country: {}\n ".format("Tajikistan"))     
-||||||| 2d0b8db
-
-
-
->>>>>>> 1398019affeb20099cb66fc09c22c3218d97e2cc
