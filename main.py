@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-"""Python code goes here"""
-
-"""Python code goes here"""
-=======
 
 """Python code goes here"""
 def developer1method():
@@ -43,4 +38,3 @@ def developer2method():
 
 
 
->>>>>>> 1398019affeb20099cb66fc09c22c3218d97e2cc
