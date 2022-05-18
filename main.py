@@ -14,4 +14,6 @@ def developer1method():
 
 def developer2method():
     print("name: {}\n ".format("Imonuil"))
+    print("surname: {}\n ".format("Suleimanov"))
+
 
