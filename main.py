@@ -1,1 +1,4 @@
-"""Python code goes here"""
+def developer1method():
+
+    print("name: {}\n ".format("Umidbek"))
+ 
