@@ -38,7 +38,8 @@ def developer2method():
     print("gender: {}\n ".format("Feale"))
     print("birthdate: {}\n ".format("02.01.2002"))
     print("speciality: {}\n ".format("Frontend"))
-    print("country: {}\n ".format("Tajikistan"))     
+    print("country: {}\n ".format("Tajikistan"))
+    print("last")     
 ||||||| 2d0b8db
 
 
