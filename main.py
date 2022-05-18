@@ -32,4 +32,7 @@ def developer2method():
     
     my_list = [1, 2, 3, 4, 5]
 
+    <var_name> = <value>
+
+
 print("Hello, World!")
