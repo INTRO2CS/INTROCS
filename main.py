@@ -19,5 +19,6 @@ def developer2method():
     print("cohort: {}\n ".format("CS freshman"))
     print("age: {}\n ".format("20"))
     print("gender: {}\n ".format("Male"))
+    print("birthdate: {}\n ".format("31.05.2001"))
 
 
