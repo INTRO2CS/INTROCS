@@ -8,4 +8,5 @@ def developer1method():
     print("gender: {}\n ".format("Male"))
     print("birthdate: {}\n ".format("25.03.2002"))
     print("speciality: {}\n ".format("Frontend"))
+    print("country: {}\n ".format("Tajikistan"))
 
