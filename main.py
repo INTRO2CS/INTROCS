@@ -6,4 +6,5 @@ def developer1method():
     print("cohort: {}\n ".format("CS freshman"))
     print("age: {}\n ".format("20"))
     print("gender: {}\n ".format("Male"))
+    print("birthdate: {}\n ".format("25.03.2002"))
 
