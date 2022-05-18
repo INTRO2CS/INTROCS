@@ -22,5 +22,6 @@ def developer2method():
     print("birthdate: {}\n ".format("31.05.2001"))
     print("speciality: {}\n ".format("Backend"))
     print("country: {}\n ".format("Tajikistan"))
+    
 
-
+    grades = [67, 100, 87, 56]
